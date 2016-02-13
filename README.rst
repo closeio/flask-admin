@@ -24,7 +24,7 @@ If you're looking for 0.x version of the Flask-Admin written by Andy Wilson, che
 Documentation
 -------------
 
-Flask-Admin is extensively documented, you can find `documentation here <http://readthedocs.org/docs/flask-admin>`_.
+Flask-Admin is extensively documented, you can find `documentation here <https://readthedocs.org/projects/flask-admin/>`_.
 
 3rd Party Stuff
 ---------------
